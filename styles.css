@@ -22,8 +22,12 @@ body {
     box-shadow: 2px 3px #888888;
 }
 
+
+a[href="page2.html"] {
+    background-color: red;
+}
+
 h1 {
     text-align: center; /* Centra el texto  */
     text-decoration: underline; /* Subraya el texto */
   }
-
